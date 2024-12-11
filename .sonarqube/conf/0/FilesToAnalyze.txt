@@ -1,0 +1,12 @@
+﻿D:\C#\Nomina\CapaEntidad\CargoContratoLaboral.cs
+D:\C#\Nomina\CapaEntidad\ConceptoPago.cs
+D:\C#\Nomina\CapaEntidad\ContratoLaboral.cs
+D:\C#\Nomina\CapaEntidad\ContratoPago.cs
+D:\C#\Nomina\CapaEntidad\DetallePago.cs
+D:\C#\Nomina\CapaEntidad\Especializacion.cs
+D:\C#\Nomina\CapaEntidad\Pago.cs
+D:\C#\Nomina\CapaEntidad\Periodo.cs
+D:\C#\Nomina\CapaEntidad\Properties\AssemblyInfo.cs
+D:\C#\Nomina\CapaEntidad\TipoContratoLaboral.cs
+D:\C#\Nomina\CapaEntidad\Trabajador.cs
+D:\C#\Nomina\CapaEntidad\packages.config

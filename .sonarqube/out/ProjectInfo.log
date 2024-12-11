@@ -1,0 +1,29 @@
+Product projects
+---------------------------------------
+
+
+Test projects
+---------------------------------------
+D:\C#\Nomina\CapaEntidad\CapaEntidad.csproj
+D:\C#\Nomina\CapaConexion\CapaConexion.csproj
+D:\C#\Nomina\CapaPersistencia\CapaPersistencia\CapaPersistencia.csproj
+D:\C#\Nomina\CapaNegocio\CapaNegocio.csproj
+D:\C#\Nomina\CapaPresentacion\CapaPresentacion.csproj
+D:\C#\Nomina\TestNomina\Test_SIGC-NominaDeTrabajor.csproj
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+{none}
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+

@@ -1,0 +1,11 @@
+t
+iD:\C#\Nomina\CapaPersistencia\CapaPersistencia\obj\Debug\.NETFramework,Version=v4.8.AssemblyAttributes.csutf-8R
+ID:\C#\Nomina\CapaPersistencia\CapaPersistencia\Properties\AssemblyInfo.csutf-8Q
+HD:\C#\Nomina\CapaPersistencia\CapaPersistencia\PersistenciaTrabajador.csutf-8Z
+QD:\C#\Nomina\CapaPersistencia\CapaPersistencia\PersistenciaTipoContratoLaboral.csutf-8N
+ED:\C#\Nomina\CapaPersistencia\CapaPersistencia\PersistenciaPeriodo.csutf-8K
+BD:\C#\Nomina\CapaPersistencia\CapaPersistencia\PersistenciaPago.csutf-8V
+MD:\C#\Nomina\CapaPersistencia\CapaPersistencia\PersistenciaEspecializacion.csutf-8S
+JD:\C#\Nomina\CapaPersistencia\CapaPersistencia\PersistenciaConceptoPago.csutf-8V
+MD:\C#\Nomina\CapaPersistencia\CapaPersistencia\PersistenciaContratoLaboral.csutf-8[
+RD:\C#\Nomina\CapaPersistencia\CapaPersistencia\PersistenciaCargoContratoLaboral.csutf-8

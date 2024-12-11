@@ -34,3 +34,39 @@ D:\Clases UCV\Clases II\CALIDAD DE SOFTWARE\SistemaMonimaTrabajo\TestNomina\obj\
 D:\Clases UCV\Clases II\CALIDAD DE SOFTWARE\SistemaMonimaTrabajo\TestNomina\obj\Debug\Test_SIG.5F19599E.Up2Date
 D:\Clases UCV\Clases II\CALIDAD DE SOFTWARE\SistemaMonimaTrabajo\TestNomina\obj\Debug\TestNomina.dll
 D:\Clases UCV\Clases II\CALIDAD DE SOFTWARE\SistemaMonimaTrabajo\TestNomina\obj\Debug\TestNomina.pdb
+D:\C#\Nomina\TestNomina\bin\Debug\es\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\C#\Nomina\TestNomina\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\C#\Nomina\TestNomina\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\C#\Nomina\TestNomina\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\C#\Nomina\TestNomina\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\C#\Nomina\TestNomina\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\C#\Nomina\TestNomina\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\C#\Nomina\TestNomina\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\C#\Nomina\TestNomina\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\C#\Nomina\TestNomina\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\C#\Nomina\TestNomina\bin\Debug\TestNomina.dll
+D:\C#\Nomina\TestNomina\bin\Debug\TestNomina.pdb
+D:\C#\Nomina\TestNomina\bin\Debug\CapaNegocio.dll
+D:\C#\Nomina\TestNomina\bin\Debug\CapaPresentacion.exe
+D:\C#\Nomina\TestNomina\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\C#\Nomina\TestNomina\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\C#\Nomina\TestNomina\bin\Debug\CapaEntidad.dll
+D:\C#\Nomina\TestNomina\bin\Debug\CapaPersistencia.dll
+D:\C#\Nomina\TestNomina\bin\Debug\Guna.UI.dll
+D:\C#\Nomina\TestNomina\bin\Debug\Guna.UI2.dll
+D:\C#\Nomina\TestNomina\bin\Debug\Siticone.Desktop.UI.dll
+D:\C#\Nomina\TestNomina\bin\Debug\FontAwesome.Sharp.dll
+D:\C#\Nomina\TestNomina\bin\Debug\CapaConexion.dll
+D:\C#\Nomina\TestNomina\bin\Debug\CapaNegocio.pdb
+D:\C#\Nomina\TestNomina\bin\Debug\CapaPresentacion.pdb
+D:\C#\Nomina\TestNomina\bin\Debug\CapaPresentacion.exe.config
+D:\C#\Nomina\TestNomina\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\C#\Nomina\TestNomina\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\C#\Nomina\TestNomina\bin\Debug\CapaEntidad.pdb
+D:\C#\Nomina\TestNomina\bin\Debug\CapaPersistencia.pdb
+D:\C#\Nomina\TestNomina\bin\Debug\CapaConexion.pdb
+D:\C#\Nomina\TestNomina\obj\Debug\Test_SIGC-NominaDeTrabajor.csproj.AssemblyReference.cache
+D:\C#\Nomina\TestNomina\obj\Debug\Test_SIGC-NominaDeTrabajor.csproj.CoreCompileInputs.cache
+D:\C#\Nomina\TestNomina\obj\Debug\Test_SIG.5F19599E.Up2Date
+D:\C#\Nomina\TestNomina\obj\Debug\TestNomina.dll
+D:\C#\Nomina\TestNomina\obj\Debug\TestNomina.pdb

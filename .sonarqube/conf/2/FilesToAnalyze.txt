@@ -1,0 +1,10 @@
+﻿D:\C#\Nomina\CapaPersistencia\CapaPersistencia\PersistenciaCargoContratoLaboral.cs
+D:\C#\Nomina\CapaPersistencia\CapaPersistencia\PersistenciaConceptoPago.cs
+D:\C#\Nomina\CapaPersistencia\CapaPersistencia\PersistenciaContratoLaboral.cs
+D:\C#\Nomina\CapaPersistencia\CapaPersistencia\PersistenciaEspecializacion.cs
+D:\C#\Nomina\CapaPersistencia\CapaPersistencia\PersistenciaPago.cs
+D:\C#\Nomina\CapaPersistencia\CapaPersistencia\PersistenciaPeriodo.cs
+D:\C#\Nomina\CapaPersistencia\CapaPersistencia\PersistenciaTipoContratoLaboral.cs
+D:\C#\Nomina\CapaPersistencia\CapaPersistencia\PersistenciaTrabajador.cs
+D:\C#\Nomina\CapaPersistencia\CapaPersistencia\Properties\AssemblyInfo.cs
+D:\C#\Nomina\CapaPersistencia\CapaPersistencia\packages.config

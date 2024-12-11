@@ -1,0 +1,1 @@
+;R-D:\C#\Nomina\CapaConexion\CapaConexion.csprojò	CSharp7_3

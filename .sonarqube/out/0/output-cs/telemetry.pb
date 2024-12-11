@@ -1,0 +1,1 @@
+9R+D:\C#\Nomina\CapaEntidad\CapaEntidad.csprojò	CSharp7_3

@@ -1,0 +1,13 @@
+^
+SD:\C#\Nomina\CapaNegocio\obj\Debug\.NETFramework,Version=v4.8.AssemblyAttributes.csutf-8<
+3D:\C#\Nomina\CapaNegocio\Properties\AssemblyInfo.csutf-86
+-D:\C#\Nomina\CapaNegocio\NegocioTrabajador.csutf-8?
+6D:\C#\Nomina\CapaNegocio\NegocioTipoContratoLaboral.csutf-83
+*D:\C#\Nomina\CapaNegocio\NegocioPeriodo.csutf-80
+'D:\C#\Nomina\CapaNegocio\NegocioPago.csutf-8;
+2D:\C#\Nomina\CapaNegocio\NegocioEspecializacion.csutf-8;
+2D:\C#\Nomina\CapaNegocio\NegocioContratoLaboral.csutf-88
+/D:\C#\Nomina\CapaNegocio\NegocioConceptoPago.csutf-8@
+7D:\C#\Nomina\CapaNegocio\NegocioCargoContratoLaboral.csutf-81
+(D:\C#\Nomina\CapaNegocio\MetodosPagos.csutf-8;
+2D:\C#\Nomina\CapaNegocio\MetodosContratoLaboral.csutf-8

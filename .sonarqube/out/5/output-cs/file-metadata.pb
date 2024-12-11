@@ -1,0 +1,14 @@
+]
+RD:\C#\Nomina\TestNomina\obj\Debug\.NETFramework,Version=v4.8.AssemblyAttributes.csutf-8>
+5D:\C#\Nomina\TestNomina\TestCalcularMontoTotalPago.csutf-8A
+8D:\C#\Nomina\TestNomina\TestCalcularDescuentosTotales.csutf-8B
+9D:\C#\Nomina\TestNomina\TestCalcularDeduccionImpuestos.csutf-83
+*D:\C#\Nomina\TestNomina\TestCalcularAFP.csutf-8I
+@D:\C#\Nomina\TestNomina\TestCalcularDeduccionesTotalesSeguros.csutf-8@
+7D:\C#\Nomina\TestNomina\TestCalcularDeduccionSeguros.csutf-8G
+>D:\C#\Nomina\TestNomina\TestCalcularMontoAsignacionFamiliar.csutf-8@
+7D:\C#\Nomina\TestNomina\TestEstablecerFechasContrato.csutf-8B
+9D:\C#\Nomina\TestNomina\TestValidarSoloLetrasYEspacios.csutf-8:
+1D:\C#\Nomina\TestNomina\TestValidarSoloNumeros.csutf-8;
+2D:\C#\Nomina\TestNomina\Properties\AssemblyInfo.csutf-8>
+5D:\C#\Nomina\TestNomina\TestCalcularSalarioPorHora.csutf-8

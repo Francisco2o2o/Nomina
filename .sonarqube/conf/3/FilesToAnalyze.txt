@@ -1,0 +1,12 @@
+﻿D:\C#\Nomina\CapaNegocio\MetodosContratoLaboral.cs
+D:\C#\Nomina\CapaNegocio\MetodosPagos.cs
+D:\C#\Nomina\CapaNegocio\NegocioCargoContratoLaboral.cs
+D:\C#\Nomina\CapaNegocio\NegocioConceptoPago.cs
+D:\C#\Nomina\CapaNegocio\NegocioContratoLaboral.cs
+D:\C#\Nomina\CapaNegocio\NegocioEspecializacion.cs
+D:\C#\Nomina\CapaNegocio\NegocioPago.cs
+D:\C#\Nomina\CapaNegocio\NegocioPeriodo.cs
+D:\C#\Nomina\CapaNegocio\NegocioTipoContratoLaboral.cs
+D:\C#\Nomina\CapaNegocio\NegocioTrabajador.cs
+D:\C#\Nomina\CapaNegocio\Properties\AssemblyInfo.cs
+D:\C#\Nomina\CapaNegocio\packages.config
